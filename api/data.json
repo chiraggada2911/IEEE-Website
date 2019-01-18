@@ -1,0 +1,34 @@
+{
+	"team":{
+		"person":[
+			{
+			"name":"shaunak Galvankar",
+			"contact":"9920210998",
+			"mail":"shaunakprasad@gmail.com",
+			"designation":"chairperson"
+		
+		},
+		{
+			"name":"Jatin Dalvi",
+			"contact":"8550918477",
+			"mail":"jatinhdalvi@gmail.com",
+			"designation":"co-chairperson"
+		
+		},
+		{
+			"name":"Chirag Gada",
+			"contact":"9920817447",
+			"mail":"ciraggada67@gmail.com",
+			"designation":"infotech-head"
+		
+		},
+		{
+			"name":"vijayraj Gohil",
+			"contact":"9920210998",
+			"mail":"shaunakprasad@gmail.com",
+			"designation":"technical"
+		
+		}
+		]
+	}
+}
