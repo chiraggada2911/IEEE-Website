@@ -110,11 +110,14 @@ body {
  */
 
 .cover {
-  padding: 0 20px;
+  padding: 100px 40px;
 }
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+}
+.btnkhali{
+  padding: 20px;
 }
 
 
