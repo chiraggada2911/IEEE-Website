@@ -10,31 +10,31 @@ router.get('/home',function(req,res){
   res.render('homepage');
 });
 
-router.get('/home/committee',function(req,res){
+router.get('/committee',function(req,res){
   res.render('committee');
 });
 
-router.get('/home/newsletter',function(req,res){
+router.get('/newsletter',function(req,res){
   res.render('newsletter');
 });
 
-router.get('/home/mentorship',function(req,res){
+router.get('/mentorship',function(req,res){
   res.render('mentorship');
 });
 
-router.get('/home/wie',function(req,res){
+router.get('/wie',function(req,res){
   res.render('wie');
 });
 
-router.get('/home/iv',function(req,res){
+router.get('/industrialvisits',function(req,res){
   res.render('iv');
 });
 
-router.get('/home/gallery',function(req,res){
+router.get('/gallery',function(req,res){
   res.render('gallery');
 });
 
-router.get('/home/workshops',function(req,res){
+router.get('/workshops',function(req,res){
   res.render('workshops');
 });
 
