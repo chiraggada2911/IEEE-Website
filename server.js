@@ -11,6 +11,8 @@ app.use(routes);
 //express middleware so that we dont have to write a route for every stylsheet linked to an html file.
 app.use('/assets',express.static('assets'));
 
+app.use('/archive',express.static('archive'));
+
 
 //listen on the declared port
 
