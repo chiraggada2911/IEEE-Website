@@ -38,4 +38,7 @@ router.get('/workshops',function(req,res){
   res.render('workshops');
 });
 
+router.get('/events',function(req,res){
+  res.render('events');
+});
 module.exports=router;
