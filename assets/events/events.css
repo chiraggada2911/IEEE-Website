@@ -61,7 +61,7 @@ h1 {
 }
 .timeline--entry__title {
   color: white;
-  background-color: #ec407a;
+  background-color: #00429a;
   font-family: "Oswald", Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: 300;
   font-size: 1rem;
@@ -76,7 +76,7 @@ h1 {
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
   left: -1em;
-  border-right: 10px solid #ec407a;
+  border-right: 10px solid #00429a;
 }
 .timeline--entry__detail {
   background-color: #dddddd;
@@ -133,7 +133,7 @@ h1 {
     }
     .timeline--entry:nth-of-type(even):not(:nth-of-type(odd)) .timeline--entry__title:before {
       left: 100%;
-      border-left: 10px solid #ec407a;
+      border-left: 10px solid #00429a;
       border-right: 0;
     }
     .timeline--entry:nth-of-type(even):before {
