@@ -23,6 +23,6 @@
     "mongo": "^0.1.0",
     "mongoose": "^5.2.15",
     "morgan": "^1.9.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
